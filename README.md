@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://eco-smart-loop.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_App-brightgreen?style=for-the-badge" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
   <a href="#-why-we-built-this">Why</a> •
   <a href="#-see-it-in-action">Demo</a> •
   <a href="#-features">Features</a> •
