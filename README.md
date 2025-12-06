@@ -256,7 +256,7 @@ You've stood in front of three bins. Trash. Recycling. Compost. And in that mome
 <p align="center">
   <img src="./assets/Project/Brand/Phones.png" alt="Multi-Platform Architecture" width="600">
   <br>
-  <em>Native iOS, Android, and Web from single Next.js codebase</em>
+  <em>iOS, Android, and Web from single Next.js codebase via CapacitorJS</em>
 </p>
 
 **1. Vision & Audience**: Turning waste confusion into strategic intelligence for corporations, institutions, retail, and municipalities.
@@ -266,7 +266,7 @@ You've stood in front of three bins. Trash. Recycling. Compost. And in that mome
 **3. Growth Loop**: "SCAN. LEARN. EARN. IMPACT." The only behavioral loop that drives real change.
 
 **4. Architecture**:
-- 🏗️ **Unified Codebase**: Native iOS, Android, and Web from single Next.js codebase
+- 🏗️ **Unified Codebase**: iOS, Android, and Web from single Next.js codebase wrapped with CapacitorJS
 - 🔐 **Bulletproof Security**: Zero-error type safety with TypeScript 100%
 - ⚡ **Blazing Fast**: Edge deployment via Vercel with global CDN
 - 🤖 **Automated CI/CD**: GitHub Actions for seamless updates
