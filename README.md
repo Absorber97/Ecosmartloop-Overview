@@ -356,6 +356,9 @@ You've stood in front of three bins. Trash. Recycling. Compost. And in that mome
       <a href="https://www.linkedin.com/in/glenn-marvin-musoke-645a99b2/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22">
       </a>
+      <a href="https://github.com/gmarvlen">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="22">
+      </a>
     </td>
     <td align="center" width="25%">
       <img src="./assets/Team/Okkar.png" width="120" style="border-radius: 50%"><br>
