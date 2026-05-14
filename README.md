@@ -72,7 +72,7 @@ You've stood in front of three bins. Trash. Recycling. Compost. And in that mome
 - 🌍 **Instant Classification**: LEAF Engine identifies waste types in seconds with 95%+ accuracy using 8,000+ trained images (better than human waste experts)
 - ♻️ **Compliance Made Simple**: Help California businesses avoid SB 1383 fines and contamination fees through real-time guidance
 - 💡 **Smart Assistant**: Orbi AI provides personalized eco-tips with transparent reasoning ("Compost. Remove the lid.") for complete clarity in one moment
-- 🎁 **Real Incentives**: Convert eco-achievements into gift cards from 2,000+ options with 78% monthly engagement vs. 12% industry average
+- 🎁 **Real Incentives**: Convert eco-achievements into gift cards from 2,000+ options
 - 🏢 **Scalable Architecture**: Designed to adapt to any organization (universities, corporations, municipalities, small businesses) with multi-tenant support and role-based intelligence
 
 ---
@@ -175,12 +175,10 @@ You've stood in front of three bins. Trash. Recycling. Compost. And in that mome
 <p align="center">
   <img src="./assets/Project/Screenshots/Org - Leaderboard.png" width="600" alt="Organization Leaderboard">
   <br>
-  <em>78% monthly engagement vs. 12% industry average</em>
+  <em>Organization leaderboard view for team and department challenges</em>
 </p>
 
 - ✅ **Department Rivalry**: Inter-team challenges
-
-**Impact**: Studies show gamification increases recycling participation by 40%
 
 ---
 
